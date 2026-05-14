@@ -1,0 +1,271 @@
+{
+  "scores": {
+    "TARGET": {
+      "title": "HP 15 (2025) AMD Ryzen 3 7335U Quad Core Laptop 16GB DDR5 512GB S",
+      "asin": "B0G2MM7VH9",
+      "price": 48790.0,
+      "discount": 51.21,
+      "rating": 4.0,
+      "reviews": 1.0,
+      "lqs": 76.2,
+      "grade": "B",
+      "ctr": 0.46,
+      "cvr": 0.404,
+      "rpi": 9067.13,
+      "qc_flags": []
+    },
+    "COMP-1": {
+      "title": "ASUS Vivobook 15, Smartchoice, AMD Ryzen 7 5825U, 16GB RAM, 512GB",
+      "asin": "B0FC2LKFSC",
+      "price": 49990.0,
+      "discount": 13.8,
+      "rating": 4.0,
+      "reviews": 161.0,
+      "lqs": 82.0,
+      "grade": "B",
+      "ctr": 0.589,
+      "cvr": 0.659,
+      "rpi": 19403.67,
+      "qc_flags": []
+    },
+    "COMP-2": {
+      "title": "ASUS Vivobook 15, Intel Core i3 13th Gen 1315U, 16GB RAM, 512GB S",
+      "asin": "B0FMRSJK1L",
+      "price": 44990.0,
+      "discount": 21.06,
+      "rating": 4.2,
+      "reviews": 188.0,
+      "lqs": 82.5,
+      "grade": "B",
+      "ctr": 0.606,
+      "cvr": 0.679,
+      "rpi": 18512.22,
+      "qc_flags": []
+    },
+    "COMP-3": {
+      "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) A",
+      "asin": "B0F4R5W1NC",
+      "price": 46990.0,
+      "discount": 7.69,
+      "rating": 4.2,
+      "reviews": 2195.0,
+      "lqs": 82.7,
+      "grade": "B",
+      "ctr": 0.728,
+      "cvr": 0.715,
+      "rpi": 24459.23,
+      "qc_flags": []
+    },
+    "COMP-4": {
+      "title": "acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/",
+      "asin": "B0DG2GCTD7",
+      "price": 43990.0,
+      "discount": 51.12,
+      "rating": 4.0,
+      "reviews": 833.0,
+      "lqs": 83.8,
+      "grade": "B",
+      "ctr": 0.787,
+      "cvr": 0.767,
+      "rpi": 26553.64,
+      "qc_flags": []
+    },
+    "COMP-5": {
+      "title": "Lenovo V15 G4 AMD Ryzen 5 7520U 15.6 inch FHD Laptop, AMD Graphic",
+      "asin": "B0F29HNJL1",
+      "price": 49800.0,
+      "discount": 17.41,
+      "rating": 4.0,
+      "reviews": 432.0,
+      "lqs": 83.5,
+      "grade": "B",
+      "ctr": 0.618,
+      "cvr": 0.694,
+      "rpi": 21358.82,
+      "qc_flags": []
+    }
+  },
+  "gap_report": {
+    "target_summary": {
+      "title": "HP 15 (2025) AMD Ryzen 3 7335U Quad Core Laptop 16GB DDR5 512GB S",
+      "lqs": 76.2,
+      "grade": "B",
+      "rpi": 9067.13
+    },
+    "best_competitor": {
+      "title": "acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/",
+      "lqs": 83.8,
+      "grade": "B",
+      "rpi": 26553.64
+    },
+    "gaps": [
+      {
+        "metric": "lqs",
+        "target": 76.2,
+        "best": 83.8,
+        "gap": 7.599999999999994
+      },
+      {
+        "metric": "ctr",
+        "target": 0.46,
+        "best": 0.787,
+        "gap": 0.327
+      },
+      {
+        "metric": "cvr",
+        "target": 0.404,
+        "best": 0.767,
+        "gap": 0.363
+      },
+      {
+        "metric": "rpi",
+        "target": 9067.13,
+        "best": 26553.64,
+        "gap": 17486.510000000002
+      },
+      {
+        "metric": "rating",
+        "target": 4.0,
+        "best": 4.0,
+        "gap": 0.0
+      },
+      {
+        "metric": "reviews",
+        "target": 1.0,
+        "best": 833.0,
+        "gap": 832.0
+      }
+    ]
+  },
+  "rpi_simulation": [
+    {
+      "scenario": "Current",
+      "ctr": 0.46,
+      "cvr": 0.404,
+      "rpi": 9067.13,
+      "vs_best_pct": -65.9
+    },
+    {
+      "scenario": "CTR +10 %",
+      "ctr": 0.5060000000000001,
+      "cvr": 0.404,
+      "rpi": 9973.85,
+      "vs_best_pct": -62.4
+    },
+    {
+      "scenario": "CVR +10 %",
+      "ctr": 0.46,
+      "cvr": 0.4444000000000001,
+      "rpi": 9973.85,
+      "vs_best_pct": -62.4
+    },
+    {
+      "scenario": "Both +10 %",
+      "ctr": 0.5060000000000001,
+      "cvr": 0.4444000000000001,
+      "rpi": 10971.23,
+      "vs_best_pct": -58.7
+    },
+    {
+      "scenario": "Both +25 %",
+      "ctr": 0.5750000000000001,
+      "cvr": 0.505,
+      "rpi": 14167.4,
+      "vs_best_pct": -46.6
+    }
+  ],
+  "feedback": {
+    "asin": "B0G2MM7VH9",
+    "position": "direct (ASIN B0G2MM7VH9)",
+    "health": [
+      {
+        "level": "WARNING",
+        "msg": "LQS=76.2 (B) \u2014 room to improve."
+      },
+      {
+        "level": "CRITICAL",
+        "msg": "Only 1 reviews."
+      },
+      {
+        "level": "CRITICAL",
+        "msg": "RPI \u20b99067.1 is <50 % of leader (\u20b926553.6)."
+      }
+    ],
+    "strengths": [
+      "Strong discount (51.2 %)."
+    ],
+    "quick_wins": [
+      "Enroll in Amazon Vine for 10-30 verified reviews"
+    ],
+    "medium_term": [
+      "Rewrite title (brand + model + 3 specs)",
+      "Add all 5 bullets \u2014 benefit-led copy",
+      "Upload 7-9 images",
+      "Enable Prime (FBA or SFP)"
+    ],
+    "long_term": [
+      "Build A+ content",
+      "Add product video",
+      "Drive to 500+ reviews via Request Review",
+      "Sponsored Products at top-of-search"
+    ],
+    "priority_actions": [
+      {
+        "action": "Apply 10%+ discount",
+        "rpi_lift": 4703.4,
+        "ease": 5,
+        "priority": 4703.4
+      },
+      {
+        "action": "Enable Prime",
+        "rpi_lift": 6069.5,
+        "ease": 3,
+        "priority": 3641.7
+      },
+      {
+        "action": "Reach 4.0\u2605 rating",
+        "rpi_lift": 4211.6,
+        "ease": 3,
+        "priority": 2526.9
+      },
+      {
+        "action": "Add product video",
+        "rpi_lift": 4488.7,
+        "ease": 2,
+        "priority": 1795.5
+      },
+      {
+        "action": "Add A+ content",
+        "rpi_lift": 2917.6,
+        "ease": 3,
+        "priority": 1750.6
+      },
+      {
+        "action": "Reach 200+ reviews",
+        "rpi_lift": 2976.2,
+        "ease": 2,
+        "priority": 1190.5
+      },
+      {
+        "action": "Rewrite title + bullets",
+        "rpi_lift": 1308.5,
+        "ease": 4,
+        "priority": 1046.8
+      },
+      {
+        "action": "Improve main image",
+        "rpi_lift": 985.6,
+        "ease": 5,
+        "priority": 985.6
+      }
+    ],
+    "executive_summary": {
+      "gap_to_leader": 17486.5,
+      "best_competitor": 26553.64,
+      "top_action": "Apply 10%+ discount",
+      "top_action_lift": 4703.4,
+      "top3_combined": 14984.5
+    }
+  },
+  "chart_path": "competitor_analysis.png"
+}
