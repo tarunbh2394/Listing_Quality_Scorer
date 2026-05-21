@@ -7,7 +7,7 @@ from typing import Optional
 @dataclass(frozen=True)
 class Config:
     # API
-    api_key      : str  = "ok_4a67169ebf345b8274479752d24cd82f"
+    api_key      : str  = "ok_7a7f092c1855099ab70464867575fc29"
     base_url     : str  = "https://amazon-scraper-api.omkar.cloud"
     country_code : str  = "IN"
     timeout_s    : int  = 60

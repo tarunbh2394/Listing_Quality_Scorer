@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "opsell-lqs": {
+      "command": "C:\\Users\\tarun\\anaconda3\\python.exe",
+      "args": ["C:\\Users\\tarun\\OneDrive\\Desktop\\Opsell\\Opsell_AI\\lqs_mcp_server.py"]
+    }
+  }
+}
